@@ -6,6 +6,13 @@
 
 ---
 
+<p align="center">
+  <img src="docs/figures/IMG_5515.gif" alt="Vending in Action">
+</p>
+<p align="center">
+  <em>Figure 1: Vending machine dispensing.</em>
+</p>
+
 ## Overview
 
 This project involves the creation of a mechatronic system that mimics the functionality of a vending machine. The system features an aluminum dispensing coil connected to a NEMA 17 Bipolar Stepper motor, which is driven by an Arduino, A4988 Stepper Driver, and other components like a proximity sensor and a GUI for control. The vending machine allows for dispensing products in controlled quantities, tracks inventory, and provides alerts when the machine is empty and needs restocking.
