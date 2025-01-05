@@ -73,11 +73,17 @@ This project successfully demonstrates a mechatronic vending machine system that
 
 ## Circuit Diagram
 
-[Include circuit diagram here]
+<p align="center">
+  <img src="/docs/figures/circuit.jpg" alt="Circuit diagram.">
+</p>
+
 
 ---
 
 ## State Transition Diagram
 
-[Include state transition diagram here]
+<p align="center">
+  <img src="/docs/figures/sm.jpg" alt="State diagram.">
+</p>
+
 
